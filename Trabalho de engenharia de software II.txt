@@ -1,0 +1,43 @@
+1.1 DESCRIÇÃO DO PROBLEMA 
+Nessa modalidade, pode haver o número máximo de atletas. Quando o número for muito grande, pode-se dividir os atletas em etapas e grupos classificatório, onde haverá uma seleção onde os melhores índices vão para a etapa final.
+ 
+Um dos problemas da manipulação manual de dados é a morosidade em trabalhar com as anotações em papel e no cálculo dos números, além da grande possibilidade de se inserir erro humano e interpretações subjetivas.
+Informatizar os dados, substituindo as anotações em papel. Auxílio de sensores, além de recursos em vídeos.
+1.1.1 Regras de negócio
+
+REGRA 181
+
+CONDIÇÕES GERAIS
+
+RG-001 Antes do início da competição, o Árbitro Chefe anunciará aos atletas a altura inicial e as subsequentes para as quais a barra será elevada ao fim de cada fase até que haja somente um atleta ainda competindo que tenha vencido a prova ou haja um empate para primeiro lugar.
+
+Tentativas
+
+RG-002 Um atleta pode começar a saltar em qualquer altura previamente anunciada pelo Árbitro Chefe e pode saltar, à sua escolha, em qualquer altura subsequente. Três falhas consecutivas, independentemente da altura na qual tais falhas ocorreram, desclassificam o competidor para outros saltos, exceto no caso de um empate no primeiro lugar.
+RG-003 Após falhar pela primeira ou segunda vez, o atleta pode optara em realizar a segunda ou terceira tentativa em uma altura subsequente.
+RG-004 Se um atleta rejeita uma tentativa em uma certa altura, ele não pode saltar qualquer tentativa subsequente naquela altura, exceto no caso de empate no primeiro lugar.
+RG-005 No caso do Salto em Altura e Salto com Vara, se um atleta não se apresentar quando todos os demais que estão presentes tenham terminado de competir, o Árbitro geral julgará que tal atleta(s) abandonou a competição, uma vez que o período para uma nova tentativa já se expirou.
+RG-006 Mesmo após todos os outros atletas terem falhado, um atleta tem o direito de continuar saltando até que tenha perdido esse direito de continuar competindo.
+RG-007  A menos que reste somente um atleta e que ele tenha vencido a competição:
+	a) a barra nunca será elevada em menos de 2cm no Salto em Altura e 5cm no Salto com Vara, após cada fase; e
+	b) nunca deverá se aumentada a medida pela qual a barra está sendo elevada.
+	Esta Regra RG-007 (a) e (b) não será aplicada uma vez que os atletas que ainda estejam competindo concordem em elevar a barra diretamente à altura de um Recorde Mundial.
+RG-009 Após um atleta ter vencido a competição, a altura ou alturas para a qual a barra será elevada deve ser decidida pelo atleta, após consulta com o Árbitro ou Árbitro Geral.
+	Nota: Isto não se aplica em Competições de Provas Combinadas.
+	Nas Competições de Provas Combinadas realizadas sob a Regra 1.1 (a), (b) , (c) e (f) , cada elevação da barra será uniformemente de 3cm no Salto em Altura e de 10cm no Salto com Vara durante toda a competição.
+Medidas
+RG-010  Todas as medidas devem ser feitas em centímetros redondos perpendicularmente do piso à parte mais baixa do lado superior da barra.
+RG-011 Qualquer medida de uma nova altura deve ser feita antes dos atletas iniciarem suas tentativas em tal altura. Em todos os casos de recordes, os Árbitros devem verificar a medida quando a barra é colocada na altura do recorde e eles devem checar novamente a medida antes de cada tentativa subsequente se a barra for tocada desde a última medição.
+RG-012. DESEMPATE
+Se dois ou mais atletas ultrapassarem a mesma altura final o procedimento para decidir as colocações serão os seguintes:
+	(a) O atleta com o número menor de saltos na altura onde ocorrer o empate será considerado o de melhor colocação.
+	(b) Se os atletas permanecerem na posição, após a aplicação da Regra 181.8(a), o atleta com o menor número total de saltos falhos em toda a prova até e incluindo a última altura ultrapassada será considerado o de melhor colocação.
+	(c) Se os atletas ainda estiverem empatados após a aplicação da Regra 181.8(b), o atleta em questão será considerado a mesma posição a menos que seja relativo ao primeiro lugar;
+	(d) Se relativo ao primeiro lugar um salto extra entre estes atletas será conduzido de acordo com a Regra 181.9, a menos que decidido de outro modo, tanto antecipadamente de acordo com os Regulamentos Técnicos aplicados à competição ou durante a mesma, mas antes do início da competição pelo Delegado Técnico ou Árbitro Geral se nenhum Delegado Técnico tiver sido indicado. Se nenhum salto extra for realizado, incluindo quando os atletas pertinentes em qualquer fase decidirem não saltar mais, o empate para o primeiro lugar permanecerá.
+Nota: Esta Regra (d) não se aplicará a Provas Combinadas.
+
+RG-013 Forças Externas
+
+Quando estiver claro que a barra foi deslocada por uma força não associada ao atleta (por exemplo: uma rajada de vento):
+	(a) se tal deslocamento ocorrer após o atleta ultrapassar claramente sem tocar a barra, então a tentativa deve ser considerada válida, ou
+	(b) se tal deslocamento ocorrer sob quaisquer outras circunstâncias, uma nova tentativa será concedida.
